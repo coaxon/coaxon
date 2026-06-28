@@ -8,9 +8,9 @@ Our platform orchestrates your entire supply chain and multi-channel sales footp
 
 CoAxon integrates natively with major platforms to provide global visibility and unified controls:
 
-- **[Amazon MCP](https://github.com/coaxon/amazon-mcp)** — Open-source Model Context Protocol server for Amazon SP-API and Advertising API. Handles the Amazon layer.
-- **Meli MCP (Coming Soon)** — Connects Mercado Libre (Full).
-- **TikTok MCP (Coming Soon)** — Connects TikTok Shop.
+- **[Amazon MCP](https://github.com/coaxon/amazon-mcp)** — Open-source. Amazon SP-API + Advertising API.
+- **[Meli MCP](https://github.com/coaxon/meli-mcp)** — Private Beta. Mercado Libre Full (items, orders, fulfillment, messaging).
+- **[TikTok MCP](https://github.com/coaxon/tiktok-mcp)** — Private Beta. TikTok Shop including Affiliate/Creator domain.
 
 ## Key Capabilities
 
