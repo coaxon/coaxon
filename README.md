@@ -32,4 +32,4 @@ The Command Center (Pro) handles cross-domain rules, global orchestration, and m
 
 - **Open Source:** Check out our [Amazon MCP server](https://github.com/coaxon/amazon-mcp) to get started with Amazon SP-API integration.
 - **Enterprise & Pro:** For full access to the Command Center, cross-platform modules, and managed services:  
-  → [**Get Pro access**](https://coaxon.ai/pro)
+  → [**Get Pro access**](mailto:info@coaxon.me?subject=Pro%20Access%20Request)
