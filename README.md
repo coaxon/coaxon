@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/coaxon_command_center_demo.png" alt="CoAxon E-commerce OS Command Center Demo" width="100%"/>
+</p>
+
 # CoAxon E-commerce OS
 
 Welcome to the CoAxon ecosystem. CoAxon is an advanced, cross-platform E-commerce Operating System designed for professional sellers and modern retail operators.
